@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h

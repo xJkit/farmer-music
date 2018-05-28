@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Image/RCTImageCache.m \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/xJkit/Documents/Workspace/react-native/farmer-music/node_modules/react-native/Libraries/Image/RCTImageUtils.h
