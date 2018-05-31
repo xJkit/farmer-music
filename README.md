@@ -1,3 +1,3 @@
 # Farmer Music
 
-A music player suitable for code farmers.
+A music player for code farmers.
