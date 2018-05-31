@@ -1,5 +1,5 @@
-import React from 'react';
-import { StyleSheet } from 'react-native';
+import React, { Fragment } from 'react';
+import { StyleSheet, Platform, View } from 'react-native';
 
 /** components */
 import MyTabBar from './components/MyTabBar';
@@ -27,17 +27,27 @@ export default class App extends React.PureComponent<any, AppState> {
 
   render() {
     return (
-      <MyTabBar activeTab={this.state.activeTab} onSelect={this._onSelect}>
-        <MyTabBar.Item title="瀏覽" key="Browse">
-          <Browse />
-        </MyTabBar.Item>
-        <MyTabBar.Item title="搜尋" key="Search">
-          <Search />
-        </MyTabBar.Item>
-        <MyTabBar.Item title="你的音樂庫" key="YourLibrary">
-          <YourLibrary />
-        </MyTabBar.Item>
-      </MyTabBar>
+      <Fragment>
+        <View style={styles.statusBarStyle} />
+        <MyTabBar activeTab={this.state.activeTab} onSelect={this._onSelect}>
+          <MyTabBar.Item title="瀏覽" key="Browse">
+            <Browse />
+          </MyTabBar.Item>
+          <MyTabBar.Item title="搜尋" key="Search">
+            <Search />
+          </MyTabBar.Item>
+          <MyTabBar.Item title="你的音樂庫" key="YourLibrary">
+            <YourLibrary />
+          </MyTabBar.Item>
+        </MyTabBar>
+      </Fragment>
     );
   }
 }
+
+const styles = StyleSheet.create({
+  statusBarStyle: {
+    height: Platform.OS === 'ios' ? 20 : 0,
+    backgroundColor: 'yellow'
+  }
+});
