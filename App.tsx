@@ -10,11 +10,12 @@ import Search from './containers/Search';
 import YourLibrary from './containers/YourLibrary';
 
 type TabName = 'Browse' | 'Search' | 'YourLibrary';
+
 interface AppState {
   activeTab: TabName;
 }
 
-export default class App extends React.Component<any, AppState> {
+export default class App extends React.PureComponent<any, AppState> {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -22,12 +23,11 @@ export default class App extends React.Component<any, AppState> {
     };
   }
 
+  _onSelect = activeTab => this.setState({ activeTab });
+
   render() {
     return (
-      <MyTabBar
-        activeTab={this.state.activeTab}
-        onSelect={activeTab => this.setState({ activeTab })}
-      >
+      <MyTabBar activeTab={this.state.activeTab} onSelect={this._onSelect}>
         <MyTabBar.Item title="瀏覽" key="Browse">
           <Browse />
         </MyTabBar.Item>
